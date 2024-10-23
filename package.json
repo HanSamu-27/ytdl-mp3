@@ -17,6 +17,7 @@
     "scraper",
     "downloader",
     "node-fetch",
-    "cheerio"
+    "cheerio",
+    "sam"
   ]
 }
