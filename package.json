@@ -1,0 +1,22 @@
+{
+  "name": "ytdl-mp3",
+  "version": "3.2.1",
+  "description": "Descargador de Audios para Youtube",
+  "main": "youtubedl.js",
+  "scripts": {
+    "start": "node youtubedl.js"
+  },
+  "author": "@Samush$_",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "keywords": [
+    "youtube",
+    "scraper",
+    "downloader",
+    "node-fetch",
+    "cheerio"
+  ]
+}
